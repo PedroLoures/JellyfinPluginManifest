@@ -13,8 +13,8 @@
                 "changelog": "First version, made with automated tests",
                 "targetAbi": "10.11.0",
                 "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/pre/Jellyfin.Plugin.MergeEpisodes.zip",
-                "checksum": "1AF0B505ADEE4CB2C794820BF21B7D8D",
-                "timestamp": "2026-04-19T16:42:41"
+                "checksum": "1af0b505adee4cb2c794820bf21b7d8d",
+                "timestamp": "2026-04-19T‏‎16:59:14"
             }
         ]
     }
