@@ -5,7 +5,7 @@
         "description": "Jellyfin Merge Episodes plugin is a plugin that automatically groups every repeated movie\n",
         "overview": "Automatically merge repeated episodes. Rewritten based on danielapov",
         "owner": "PedroLoures",
-        "imageUrl": "https://raw.githubusercontent.com/PedroLoures/JellyfinPluginManifest/master/resources/MergeEpisodes/ai-thumb.png",
+        "imageUrl": "https://raw.githubusercontent.com/PedroLoures/JellyfinPluginManifest/master/resources/MergeEpisodes/ai-thumb2.png",
         "category": "General",
         "versions": [
 		    {
