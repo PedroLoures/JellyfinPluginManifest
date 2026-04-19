@@ -9,7 +9,7 @@
         "category": "General",
         "versions": [
 		    {
-                "version": "1.0",
+                "version": "1.0.0",
                 "changelog": "First version",
                 "targetAbi": "10.11.0",
                 "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/pre/Jellyfin.Plugin.MergeEpisodes.zip",
