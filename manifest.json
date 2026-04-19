@@ -12,7 +12,7 @@
                 "version": "1.0",
                 "changelog": "First version",
                 "targetAbi": "10.11.0.0",
-                "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeversions/releases/download/pre/Jellyfin.Plugin.MergeVersions.zip",
+                "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/pre/Jellyfin.Plugin.MergeEpisodes.zip",
                 "checksum": "CB480B83CD6AEA8065898198721B3D5D",
                 "timestamp": "2026-04-19T15:42:41"
             }
