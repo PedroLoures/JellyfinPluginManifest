@@ -9,11 +9,11 @@
         "category": "General",
         "versions": [
 		    {
-                "version": "1.0.0",
+                "version": "1.0.1",
                 "changelog": "First version, made with automated tests",
                 "targetAbi": "10.11.0.0",
                 "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/pre/Jellyfin.Plugin.MergeEpisodes.zip",
-                "checksum": "ac29819957c74ec4a49a778dea8df733",
+                "checksum": "513ea207ed79373fd41574dc1a8afaf0",
                 "timestamp": "2026-04-19T‏‎17:34:14"
             }
         ]
