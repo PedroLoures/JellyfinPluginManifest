@@ -9,6 +9,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "10.11.1.2",
+        "changelog": "Fixing bad string",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/v10.11.1.2/plugin-10.11.1.2.zip",
+        "checksum": "D9175DF43E13C30E2127D65798D2415C",
+        "timestamp": "2026-04-20T08:04:33Z"
+      },
+      {
         "version": "10.11.1.1",
         "changelog": "Update README.md",
         "targetAbi": "10.11.0.0",
