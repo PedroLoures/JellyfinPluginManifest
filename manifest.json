@@ -9,6 +9,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "10.11.1.6",
+        "changelog": "Update build.yml",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/v10.11.1.6/plugin-10.11.1.6.zip",
+        "checksum": "6F8B472CB8D82C91F087780DA9213170",
+        "timestamp": "2026-04-20T16:40:09Z"
+      },
+      {
         "version": "10.11.1.5",
         "changelog": "Update README.md",
         "targetAbi": "10.11.0.0",
