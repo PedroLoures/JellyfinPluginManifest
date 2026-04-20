@@ -9,6 +9,14 @@
     "category": "General",
     "versions": [
       {
+        "version": "10.11.0.15",
+        "changelog": "Removed Auto Scan",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/v10.11.0.15/plugin-10.11.0.15.zip",
+        "checksum": "3C3B3AB9A5F3CD7F5625F39FB350F25D",
+        "timestamp": "2026-04-20T06:55:09Z"
+      },
+      {
         "version": "10.11.0.14",
         "changelog": "Update configPage.html",
         "targetAbi": "10.11.0.0",
