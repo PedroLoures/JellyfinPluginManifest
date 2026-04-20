@@ -17,14 +17,6 @@
         "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/v1.0.1.1/plugin-1.0.1.1.zip",
         "checksum": "D55478381890C8FDDF26513B1AF7F0DF",
         "timestamp": "2026-04-20T00:52:03Z"
-      },
-      {
-        "version": "1.0.1",
-        "changelog": "First version, made with automated tests",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-mergeepisodes/releases/download/pre/Jellyfin.Plugin.MergeEpisodes.zip",
-        "checksum": "82AC54370FD75213E6CB5F33A02DC57B",
-        "timestamp": "2026-04-19T19:12:08Z"
       }
     ]
   }
