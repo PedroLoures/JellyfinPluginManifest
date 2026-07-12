@@ -175,7 +175,7 @@
           "version": "7.0.0.2",
           "changelog": "- First tests of moving files",
           "targetAbi": "10.11.2.0",
-          "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-subtitleextract/releases/download/0.1/subtitle-0.2.zip",
+          "sourceUrl": "https://github.com/PedroLoures/jellyfin-plugin-subtitleextract/releases/download/0.2/subtitle-0.2.zip",
           "checksum": "D7BA5B574B7B2CF663492886AAE4CA58",
           "timestamp": "2026-07-12T19:15:54Z"
       }
